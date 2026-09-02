@@ -6,4 +6,4 @@ initial testing with branches
 
 second commit to newbranch
 
-This will cause conflict
+testing merging and conflicts
